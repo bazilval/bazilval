@@ -27,11 +27,11 @@ src="https://img.shields.io/twitter/follow/bazi1val?logo=twitter&style=for-the-b
 **Spring Boot** web application that provides APIs for managing various resources: Labels, Statuses, Tasks, and Users.\
 Closest reference is http://www.redmine.org. It's implementing Spring Security 6 with **JWT authentication** and uses a stack of advanced technologies such as **Liquibase**, **PostgreSQL** and **MapStruct**. "Needless to say, the service is thoroughly covered with a multitude of integration tests to handle user requests effectively.
 
-### [SEO-analizing service](https://github.com/bazilval/java-project-72)
+### [SEO-analizing service](https://github.com/bazilval/my-site-analyzer)
 Full-stack **Javalin** web application implementing a CEO-analyzing web-service.\
 It uses **Thymeleaf** template engine for generating static HTML pages on the server-side, using **Bootstrap** styles to make a delisious look. As ORM was used **Ebean**, as database - **PostgreSQL**. Whole service was carefuly covered with tests, using **JUnit**.
 
-### [Validator DSL-library](https://github.com/bazilval/java-project-78)
+### [Validator DSL-library](https://github.com/bazilval/my-validation-library)
 Simple **JVM library** for validating data. It's can validate strings, numbers and maps.
 
 ## Socials
