@@ -6,7 +6,7 @@ Java-developer
 
 Former Subway Design **Engineer** turned passionate Java-developer and automation enthusiast. Skilled in **communication, problem-solving, and effective team work**.
 
-* 🌍  I'm currently based in **Novi-Sad, Sebia**
+* 🌍  I'm currently based in **Novi-Sad, Serbia**
 * ✉️  You can contact me at [bazilvalentin@gmail.com](mailto:bazilvalentin@gmail.com)
 * 🤝  I'm open to collaborating on interesting projects that have the **potential to improve** people's lives.
 * ⚡  I have a passion for **making people laugh** to foster relaxed and **effective communication**.
