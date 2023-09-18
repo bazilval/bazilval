@@ -6,7 +6,7 @@ Java-developer
 
 Former Subway Design **Engineer** turned passionate Java-developer and automation enthusiast. Skilled in **communication, problem-solving, and effective team work**.
 
-* 🌍  I'm currently based in **Novi-Sad, Serbia**
+* 🌍  I'm currently based in **Novi Sad, Serbia**
 * ✉️  You can contact me at [bazilvalentin@gmail.com](mailto:bazilvalentin@gmail.com)
 * 🤝  I'm open to collaborating on interesting projects that have the **potential to improve** people's lives.
 * ⚡  I have a passion for **making people laugh** to foster relaxed and **effective communication**.
@@ -25,14 +25,14 @@ src="https://img.shields.io/twitter/follow/bazi1val?logo=twitter&style=for-the-b
 
 ### [Task manager API](https://github.com/bazilval/java-project-73)
 **Spring Boot** web application that provides APIs for managing various resources: Labels, Statuses, Tasks, and Users.\
-Closest reference is http://www.redmine.org. It's implementing Spring Security 6 with **JWT authentication** and uses a stack of advanced technologies such as **Liquibase**, **PostgreSQL** and **MapStruct**. "Needless to say, the service is thoroughly covered with a multitude of integration tests to handle user requests effectively.
+The closest reference is http://www.redmine.org. It's implementing Spring Security 6 with **JWT authentication** and uses a stack of advanced technologies such as **Liquibase**, **PostgreSQL** and **MapStruct**. Needless to say, the service is thoroughly covered with a multitude of integration tests to handle user requests effectively.
 
 ### [SEO-analizing service](https://github.com/bazilval/my-site-analyzer)
 Full-stack **Javalin** web application implementing a CEO-analyzing web-service.\
-It uses **Thymeleaf** template engine for generating static HTML pages on the server-side, using **Bootstrap** styles to make a delisious look. As ORM was used **Ebean**, as database - **PostgreSQL**. Whole service was carefuly covered with tests, using **JUnit**.
+It uses **Thymeleaf** template engine for generating static HTML pages on the server-side, using **Bootstrap** styles to make a delicious look. As ORM was used **Ebean**, as database - **PostgreSQL**. Whole service was carefuly covered with tests, using **JUnit**.
 
 ### [Validator DSL-library](https://github.com/bazilval/my-validation-library)
-Simple **JVM library** for validating data. It's can validate strings, numbers and maps.
+Simple **JVM library** for validating data. It can validate strings, numbers and maps.
 
 ## Socials
 
