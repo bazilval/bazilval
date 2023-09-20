@@ -23,7 +23,7 @@ src="https://img.shields.io/twitter/follow/bazi1val?logo=twitter&style=for-the-b
 
 ## Projects
 
-### [Task manager API](https://github.com/bazilval/java-project-73)
+### [Task manager API](https://github.com/bazilval/my-task-manager)
 **Spring Boot** web application that provides APIs for managing various resources: Labels, Statuses, Tasks, and Users.\
 The closest reference is http://www.redmine.org. It's implementing Spring Security 6 with **JWT authentication** and uses a stack of advanced technologies such as **Liquibase**, **PostgreSQL** and **MapStruct**. Needless to say, the service is thoroughly covered with a multitude of integration tests to handle user requests effectively.
 
