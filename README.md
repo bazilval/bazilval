@@ -23,6 +23,10 @@ src="https://img.shields.io/twitter/follow/bazi1val?logo=twitter&style=for-the-b
 
 ## Projects
 
+### [Hexlet correction](https://github.com/bazilval/hexlet-correction)
+Open-source **Spring Boot** web application designed to collect and manage typo reports from websites.\
+As a contributor, I have actively engaged in various aspects of the project, including creating and addressing issues and implementing a typo filtration feature for the reports table. I am enthusiastic about continuing to work on this project, solving more challenges, and introducing additional features to enhance its functionality.
+
 ### [Task manager API](https://github.com/bazilval/my-task-manager)
 **Spring Boot** web application that provides APIs for managing various resources: Labels, Statuses, Tasks, and Users.\
 The closest reference is http://www.redmine.org. It's implementing Spring Security 6 with **JWT authentication** and uses a stack of advanced technologies such as **Liquibase**, **PostgreSQL** and **MapStruct**. Needless to say, the service is thoroughly covered with a multitude of integration tests to handle user requests effectively.
