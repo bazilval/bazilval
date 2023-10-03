@@ -33,7 +33,7 @@ The closest reference is http://www.redmine.org. It's implementing Spring Securi
 
 ### [SEO-analizing service](https://github.com/bazilval/my-site-analyzer)
 Full-stack **Javalin** web application implementing a CEO-analyzing web-service.\
-It uses **Thymeleaf** template engine for generating static HTML pages on the server-side, using **Bootstrap** styles to make a delicious look. As ORM was used **Ebean**, as database - **PostgreSQL**. Whole service was carefuly covered with tests, using **JUnit**.
+It uses **Thymeleaf** template engine for generating static HTML pages on the server-side, using **Bootstrap** styles to make a delicious look. As ORM was used **Ebean**, as database - **PostgreSQL**. Whole service was carefully covered with tests, using **JUnit**.
 
 ### [Validator DSL-library](https://github.com/bazilval/my-validation-library)
 Simple **JVM library** for validating data. It can validate strings, numbers and maps.
