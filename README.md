@@ -32,7 +32,7 @@ As a contributor, I have actively engaged in various aspects of the project, inc
 The closest reference is http://www.redmine.org. It's implementing Spring Security 6 with **JWT authentication** and uses a stack of advanced technologies such as **Liquibase**, **PostgreSQL** and **MapStruct**. Needless to say, the service is thoroughly covered with a multitude of integration tests to handle user requests effectively.
 
 ### [SEO-analizing service](https://github.com/bazilval/my-site-analyzer)
-Full-stack **Javalin** web application implementing a CEO-analyzing web-service.\
+Full-stack **Javalin** web application implementing a SEO-analyzing web-service.\
 It uses **Thymeleaf** template engine for generating static HTML pages on the server-side, using **Bootstrap** styles to make a delicious look. As ORM was used **Ebean**, as database - **PostgreSQL**. Whole service was carefully covered with tests, using **JUnit**.
 
 ### [Validator DSL-library](https://github.com/bazilval/my-validation-library)
