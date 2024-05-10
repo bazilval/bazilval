@@ -4,7 +4,7 @@ Hi 👋 My name is Valentin Bazilevich
 Java-developer
 --------------
 
-Former Subway Design **Engineer** turned passionate Java-developer and automation enthusiast. Skilled in **communication, problem-solving, and effective team work**.
+Passionate Java-developer and automation enthusiast, former Subway Design **Engineer**. Skilled in **communication, problem-solving, and effective team work**.
 
 * 🌍  I'm currently based in **Novi Sad, Serbia**
 * ✉️  You can contact me at [bazilvalentin@gmail.com](mailto:bazilvalentin@gmail.com)
