@@ -31,6 +31,10 @@ As a contributor, I have actively engaged in various aspects of the project, inc
 **Spring Boot** web application that provides APIs for managing various resources: Labels, Statuses, Tasks, and Users.\
 The closest reference is http://www.redmine.org. It's implementing Spring Security 6 with **JWT authentication** and uses a stack of advanced technologies such as **Liquibase**, **PostgreSQL** and **MapStruct**. Needless to say, the service is thoroughly covered with a multitude of integration tests to handle user requests effectively.
 
+### [Bank loans REST-service](https://github.com/bazilval/bank-loans-test-task)
+Developed a sophisticated **Spring Boot** web application for managing diverse bank loan types and processing loan requests. This robust system features RESTful APIs for comprehensive loan management, seamlessly integrating with a **SQLite database** through **Spring Data JPA** and **Liquibase** for efficient data handling and migration. The application implements a flexible loan processing workflow with automated status tracking, coupled with powerful search capabilities for both loan types and requests.
+Leveraging Java and Spring Boot, the project incorporates **OpenAPI documentation**, a thorough **JUnit5** test suite, and a modular architecture that facilitates easy expansion of loan types and processing steps. This scalable solution demonstrates proficiency in modern Java development practices, database integration, API design, and test-driven development, showcasing the ability to create complex, enterprise-grade applications.
+
 ### [SEO-analyzing service](https://github.com/bazilval/my-site-analyzer)
 Full-stack **Javalin** web application implementing a SEO-analyzing web-service.\
 It uses **Thymeleaf** template engine for generating static HTML pages on the server-side, using **Bootstrap** styles to make a delicious look. As ORM was used **Ebean**, as database - **PostgreSQL**. Whole service was carefully covered with tests, using **JUnit**.
