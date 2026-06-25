@@ -1,14 +1,15 @@
 Hi 👋 My name is Valentin Bazilevich
 ====================================
 
-Mobile Engineer · React Native
+Full-Stack Developer · React Native · AI-assisted
 -------------------------------
 
 Building production language-learning apps for professionals in aviation, medicine, and maritime. Former structural engineer — I brought systematic thinking into software.
 
 * 🌍  Based in **Novi Sad, Serbia**
 * ✉️  Reach me at [bazilvalentin@gmail.com](mailto:bazilvalentin@gmail.com)
-* 💼  Mobile Engineer at **Long-Awaited Guests Ltd** — shipping [PeakTalk](https://apps.apple.com/us/app/peaktalk-job-specific-english/id6743008620), [Doxa](https://apps.apple.com/us/app/medical-english-doxa/id6737563612), and [Medical German](https://apps.apple.com/us/app/medical-german-language/id6446804370)
+* 💼  Full-Stack Developer at **Long-Awaited Guests Ltd** — shipping [PeakTalk](https://apps.apple.com/us/app/peaktalk-job-specific-english/id6743008620), [Doxa](https://apps.apple.com/us/app/medical-english-doxa/id6737563612), and [Medical German](https://apps.apple.com/us/app/medical-german-language/id6446804370)
+* 🤖  Practising AI-assisted engineering — I use Claude to accelerate feature delivery, drive refactors, and automate workflows for both technical and non-technical teammates
 * 🤝  Open to collaborating on projects that have real impact on people's lives
 
 <a href="https://www.linkedin.com/in/bazilval" target="_blank" rel="noreferrer"><img
@@ -26,7 +27,7 @@ Three production React Native apps maintained simultaneously across independent 
 **[Doxa](https://apps.apple.com/us/app/medical-english-doxa/id6737563612)** — Medical English for healthcare professionals  
 **[Medical German](https://apps.apple.com/us/app/medical-german-language/id6446804370)** — German for medical professionals
 
-Things I've shipped: voice-first exercises with native iOS/Android speech recognition, word-level audio highlighting for shadowing practice, full-stack push notification systems with A/B testing, web quiz acquisition funnels localized in 22+ languages, Stripe/Paddle payment integrations.
+Things I've shipped: voice-first exercises with native iOS/Android speech recognition, word-level audio highlighting for shadowing practice, full-stack push notification systems with A/B testing, web quiz acquisition funnels localized in 22+ languages, Stripe/Paddle payment integrations, AI-assisted content generation pipelines with layered quality checks.
 
 ## Skills
 
